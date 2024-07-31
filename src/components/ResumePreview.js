@@ -163,8 +163,8 @@ const ResumePreview = () => {
                         {type ? type : "Full-time"}
                       </Text>
                       <Text fontSize={"xs"} fontStyle={"italic"}>
-                        {startDate ? startDate : "2018-03"} -{" "}
-                        {endDate ? endDate : "2021-12"}
+                        {startDate ? startDate : "2023-03"} -{" "}
+                        {endDate ? endDate : "2023-12"}
                       </Text>
                       <Text fontSize={"sm"} as="p">
                         {desc
