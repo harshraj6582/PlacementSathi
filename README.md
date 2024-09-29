@@ -3,10 +3,7 @@
 ![image](https://github.com/user-attachments/assets/cb9f9421-b358-4c40-bec9-bcec3ebb7dc9)
 
 E-RESUME
-![image](https://github.com/harshraj6582/E-RESUME/assets/114869145/6e8708fd-7f9f-474c-81bb-62188ab4ecda)
-![image](https://github.com/harshraj6582/E-RESUME/assets/114869145/efacfa8d-3fa7-4ba7-9e50-7fd6286e0887)
 
-# E-Resume (Professional Profile & Resume Builder)
 
 ## Overview
 E-Resume is a professional profile and resume builder that allows users to create and manage their resumes efficiently. With a focus on performance and user experience, this project leverages modern web technologies to provide seamless functionality and quick access to resumes.
